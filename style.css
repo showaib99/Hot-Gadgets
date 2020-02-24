@@ -1,0 +1,100 @@
+.container{
+    margin-bottom: 50px;
+}
+ .nav-menu{
+     color: dimgray;
+     font-family: 'Poppins', sans-serif;
+ }
+ .buy-now-button{
+     background-image: linear-gradient(black, black);
+     color: white;
+     padding: 10px 15px;
+     border-radius: 10px;
+ }
+ .buy-now-button-2{
+     margin-left: 80px;
+     background-image: linear-gradient(black, black);
+     color: white;
+     padding: 10px 15px;
+     border-radius: 10px;
+ }
+ .carousel-indicators li {
+    background-color: dimgray;
+    width: 16px;
+    height: 10px;
+    border-radius: 60%;
+}
+.carousel-indicators li.active {
+    height: 1px;
+    width: 60px;
+    background: linear-gradient(#f79124, #fad12c);
+    border-radius: 5px;
+}
+.Smartphone-area{
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 50px;
+    color: dimgray;
+}
+.title{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+
+}
+.see-all{
+        font-size: 20px;
+        color: #f19216;    
+}
+.price{
+    text-align: center;
+    }
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.laptop-area{
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 50px;
+    color: dimgray;
+} 
+.Catagories-area{
+    font-family: 'Poppins', sans-serif;
+    color: dimgray;
+}
+.Catagories-bar {
+    background-image: linear-gradient(to right, #f0c725, #f19c12);
+    width: 80px;
+    height: 12px;
+    border-radius: 50px;
+    margin: 20px 515px;
+}
+.pale-order{
+    height: 400px;
+    width: 460px; 
+}
+h6{
+    padding-top: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+.categories-image1{
+    margin-top: 100px;
+}
+.shoe-text-area{
+    text-align: center;
+}
+.shoe-area{
+    position: absolute;
+    margin-top: 250px;
+    width: 255px;
+    padding-left: 100px;
+}
+.img{
+    width: 125px;
+    height: 126px;
+    margin-left: 40px;
+}
+.small{
+    margin-left: 500px;
+    margin-top: 100px;
+}
